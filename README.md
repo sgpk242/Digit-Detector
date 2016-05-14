@@ -1,5 +1,5 @@
 # Digit-Detector
-Python Machine Learning Application
+## Python Machine Learning Application
 
 A commmand-line application developed to create a Nearest-Neighbors machine learning classifier that learns how to recognize single digits in images. The classifier is trained using the MNIST database.
 
